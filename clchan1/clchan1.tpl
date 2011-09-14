@@ -37,7 +37,7 @@
         </div>
         Quote:
         <div id='quote'>
-            <p>I code while I'm drunk.</p>
+            <p>HELLOOOOOOOOOOO!!!</p>
         </div>
     </div>
 </body>

@@ -32,8 +32,8 @@
 <body>
     <div id='container'>
         <div id='name'>
-            <span class='emphasis'>Victor Neo</span>
-            <p>student by the day, <span class='emphasis'>bob</span> by the night.</p>
+            <span class='emphasis'>Robin Chan</span>
+            <p>student by the day, <span class='emphasis'>asleep</span> by the night.</p>
         </div>
         Quote:
         <div id='quote'>
